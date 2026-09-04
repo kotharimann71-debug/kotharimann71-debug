@@ -42,4 +42,30 @@ My journey revolves around:
 - 🎤 Community Building
 - 📈 Entrepreneurship
 
-> **Learn. Build. Ship. Repeat. 🚀**
+ **Learn. Build. Ship. Repeat. 🚀**
+
+## ⚡ Tech Arsenal
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,java,sql" />
+</p>
+
+### 🤖 AI & Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
+</p>
+
+### 🌐 Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,fastapi" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,figma" />
+</p>
