@@ -151,7 +151,7 @@ I believe growth comes from consistently showing up, learning something new, and
 # 🤝 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mann-kothari-4b7389277/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
   </a>
 </p>
