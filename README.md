@@ -66,6 +66,14 @@ My journey revolves around:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs" />
 
+  ### 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,figma" />
+</p>
+
+---
+
   ---
 
 ## 🚀 Featured Projects
@@ -164,13 +172,8 @@ I believe growth comes from consistently showing up, learning something new, and
 
 ### 🚀 Learn. Build. Ship. Repeat.
 
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=140&lines=%3E+initializing+mann_kothari.exe;%3E+loading+AI...;%3E+loading+startups...;%3E+loading+creativity...;%3E+loading+community...;%3E+status%3A+BUILDING+%F0%9F%9A%80;AI+%26+DATA+SCIENCE;STARTUP+BUILDER;FOUNDER+%40+ELOQUENCE+CLUB;MARKETING+EXECUTIVE+%40+HACKERS+UNITY;PR+%26+SPONSOR+LEAD+%40+HYPERFINITY" alt="AI Terminal" /> </div>
+
 ---
 </p>
 
-### 🛠️ Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,figma" />
-</p>
-
----
