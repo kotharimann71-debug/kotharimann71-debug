@@ -45,12 +45,14 @@ My journey revolves around:
  **Learn. Build. Ship. Repeat. 🚀**
 ---
 
-## ⚡ Tech Arsenal
+---
+
+## ⚡ Tech Stack & Skills
 
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c" />
 </p>
 
 ### 🤖 AI & Data Science
@@ -65,17 +67,10 @@ My journey revolves around:
   <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,figma" />
 </p>
 
 ---
-</p>
-
-### 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,figma" />
-</p>
